@@ -1863,7 +1863,7 @@ input, select, textarea {
 					border-bottom-width: 0.5em;
 				}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: 500px) {
 
 			#nav a span {
 				display: none;
